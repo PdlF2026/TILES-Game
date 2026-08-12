@@ -4,6 +4,10 @@ A 2d one-player game based on a version from my school time. The objective of th
 
 The tutorial is available when running the game. Part of the code is in spanish since i coded it a long time ago. 
 
+## Executable files for Windows (made using pyinstaller) in releases
+
+Check them out to try the game without problems. To store the information, two .txt files are generated, with a rather (almost non-existent) info obfuscation.
+
 ## Apologies
 
 I wanted to upload this game so that everyone can collaborate in its development, since it can be entertaining or even fun! The original code (TESELAS.py) is in Spanish because it was first shown in a sciences school contest.
