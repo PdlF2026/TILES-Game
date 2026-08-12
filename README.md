@@ -13,6 +13,8 @@ Check them out to try the game without problems. To store the information, two .
 I wanted to upload this game so that everyone can collaborate in its development, since it can be entertaining or even fun! The original code (TESELAS.py) is in Spanish because it was first shown in a sciences school contest.
 However, there is an English version, whose code is not that much translated (yet, it is so simple almost anyone can understand it).
 
+This was written during my very first year of programming when I was 16. The code is kept in its original state as a snapshot of my learning journey, which explains the unconventional variable names (many of them with a logic I myself can't remember now, but it has) and simple structures.
+
 ## Requirements
 
 No external libraries needed! It runs completely on Python standard libraries: 
